@@ -1,2 +1,1 @@
-# note
-笔记
+# some docs
